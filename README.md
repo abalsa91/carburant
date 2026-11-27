@@ -1,4 +1,4 @@
-# Brocolis
+# Brocoli
 
 Application personnelle. **Tous droits réservés** : voir [LICENSE](LICENSE).
 
