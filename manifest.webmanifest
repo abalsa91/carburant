@@ -1,13 +1,13 @@
 {
-  "name": "Carburant",
-  "short_name": "Carburant",
+  "name": "Brocolis",
+  "short_name": "Brocolis",
   "description": "Apport calorique, glucides et protéines selon ton sport.",
   "lang": "fr",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#F5F2EA",
-  "theme_color": "#0E0E0E",
+  "background_color": "#F1F6EA",
+  "theme_color": "#2F5A24",
   "icons": [
     { "src": "icone-192.png", "sizes": "192x192", "type": "image/png" },
     { "src": "icone-512.png", "sizes": "512x512", "type": "image/png" },
